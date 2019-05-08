@@ -126,6 +126,7 @@
     <option name="width" value="1920" />
     <option name="height" value="2125" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -176,6 +177,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -307,7 +309,7 @@
       <updated>1556733338223</updated>
       <workItem from="1556733339970" duration="926000" />
       <workItem from="1556736488936" duration="476000" />
-      <workItem from="1557292489104" duration="3920000" />
+      <workItem from="1557292489104" duration="4403000" />
     </task>
     <servers />
   </component>
@@ -344,11 +346,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5322000" />
+    <option name="totallyTimeSpent" value="5805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="35" width="1920" height="2125" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.12686567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -359,7 +360,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32885545" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32885545" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39956918" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
